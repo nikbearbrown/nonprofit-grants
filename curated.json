@@ -1,0 +1,149 @@
+{
+ "as_of": "2026-11-04",
+ "note": "Hand-curated. verified=true only where the funder's own page was read. url_verified=false means the link is an aggregator listing, not the funder.",
+ "rows": [
+  {
+   "name": "OpenAI Foundation People-First AI Fund",
+   "funder": "OpenAI Foundation",
+   "url": "https://openaifoundation.org/news/2026-people-first-ai-fund",
+   "deadline": "2026-07-15",
+   "amount_text": "Unrestricted, up to 10% of annual budget",
+   "eligibility": "US standalone 501(c)(3), budget $500K-$10M; fiscally sponsored programs excluded",
+   "status": "closed",
+   "verified": true,
+   "url_verified": true
+  },
+  {
+   "name": "Anthropic Claude Corps",
+   "funder": "Anthropic",
+   "url": "https://www.impactopen.org/opportunities/anthropic-claude-corps",
+   "deadline": null,
+   "amount_text": "Placed fellow plus $10K",
+   "eligibility": "US nonprofits",
+   "status": "open",
+   "verified": false,
+   "url_verified": false
+  },
+  {
+   "name": "Google for Nonprofits (Cloud and AI credits)",
+   "funder": "Google.org",
+   "url": "https://grantedai.com/grants/google-for-nonprofits-cloud-ai-credits-google-org-google-cloud-b824e26f",
+   "deadline": null,
+   "amount_text": "Up to $2,000/yr Cloud credits (Ad Grants already held)",
+   "eligibility": "Verified nonprofits",
+   "status": "open",
+   "verified": false,
+   "url_verified": false
+  },
+  {
+   "name": "Microsoft for Nonprofits (Azure credits)",
+   "funder": "Microsoft",
+   "url": "https://nonprofit.microsoft.com/en-us/getting-started",
+   "deadline": null,
+   "amount_text": "Up to $2,000/yr Azure credits, M365 licences",
+   "eligibility": "Verified nonprofits outside Washington State",
+   "status": "open",
+   "verified": false,
+   "url_verified": true
+  },
+  {
+   "name": "Omidyar Network Tech Journalism Fund",
+   "funder": "Omidyar Network",
+   "url": "https://onehundrednights.com/article/ai-grants-nonprofits-2026/",
+   "deadline": "2026-12-31",
+   "amount_text": "$5,000-$25,000",
+   "eligibility": "AI and emerging-technology reporting projects",
+   "status": "open",
+   "verified": false,
+   "url_verified": false
+  },
+  {
+   "name": "UNICEF Venture Fund",
+   "funder": "UNICEF",
+   "url": "https://www.impactopen.org/opportunities/unicef-venture-fund",
+   "deadline": null,
+   "amount_text": "Up to $100K equity-free",
+   "eligibility": "AI for children; themed calls",
+   "status": "open",
+   "verified": false,
+   "url_verified": false
+  },
+  {
+   "name": "Mozilla Technology Fund",
+   "funder": "Mozilla",
+   "url": "https://impactcatalyst.substack.com/p/us-grant-opportunities-tech-for-good",
+   "deadline": null,
+   "amount_text": "Up to $50,000",
+   "eligibility": "Autumn 2026 call, unconfirmed",
+   "status": "unknown",
+   "verified": false,
+   "url_verified": false
+  },
+  {
+   "name": "Amazon Research Awards: Multilingual and Contextual AI Evaluation",
+   "funder": "Amazon",
+   "url": "https://www.impactopen.org/opportunities/amazon-research-awards-multilingual-ai-evaluation",
+   "deadline": "2026-11-04",
+   "amount_text": "Up to $50K plus $50K AWS credits",
+   "eligibility": "Research framing, Global South priority; recurs spring and fall",
+   "status": "open",
+   "verified": false,
+   "url_verified": false
+  },
+  {
+   "name": "Elrha Humanitarian Innovation Fund: AI for Humanitarians",
+   "funder": "Elrha HIF",
+   "url": "https://www.myresearchconnect.com/?p=19511",
+   "deadline": "2024-01-22",
+   "amount_text": "Up to GBP 25,000",
+   "eligibility": "Legally registered entity; 2024 round",
+   "status": "closed",
+   "verified": false,
+   "url_verified": false
+  },
+  {
+   "name": "Microsoft AI for Humanitarian Action",
+   "funder": "Microsoft",
+   "url": "https://research.ubc.ca/microsoft-ai-humantiarian-action",
+   "deadline": null,
+   "amount_text": "Not stated",
+   "eligibility": "Human rights, women and children, disaster response, refugees",
+   "status": "unknown",
+   "verified": false,
+   "url_verified": false
+  },
+  {
+   "name": "AWS Imagine Grant (Generative AI Pathfinder)",
+   "funder": "Amazon Web Services",
+   "url": "https://onehundrednights.com/article/ai-grants-nonprofits-2026/",
+   "deadline": null,
+   "amount_text": "Up to $150-200K cash plus credits",
+   "eligibility": "US 501(c)(3) with a defined AI use case",
+   "status": "unknown",
+   "verified": false,
+   "url_verified": false
+  },
+  {
+   "name": "Mozilla Foundation Human-Scale AI Incubator",
+   "funder": "Mozilla Foundation",
+   "url": "https://www.impactopen.org/opportunities/mozilla-human-scale-ai-incubator",
+   "deadline": "2026-11-20",
+   "amount_text": "Up to $500K over three years",
+   "eligibility": "Global",
+   "status": "open",
+   "verified": false,
+   "url_verified": false
+  },
+  {
+   "name": "EDA Build to Scale (FY2027)",
+   "funder": "U.S. Economic Development Administration",
+   "url": "https://www.eda.gov/funding/programs/build-to-scale",
+   "deadline": "2027-02-26",
+   "amount_text": "Emerging Path up to $1M over 36 months, Growth Path up to $7M over 48 months; about $145M, 30-40 awards; 1:1 match, cash or in-kind",
+   "eligibility": "States, tribes and local governments directly; nonprofits, universities, EDOs and consortia only when a State or political subdivision supports the application; investment capital itself is excluded",
+   "status": "open",
+   "verified": true,
+   "url_verified": true
+  }
+ ]
+}

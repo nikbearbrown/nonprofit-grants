@@ -1,0 +1,61 @@
+{
+  "user_agent": "nonprofit-grants/0.1 (+https://github.com/nikbearbrown/nonprofit-grants)",
+  "feeds": [
+    {
+      "id": "fundsforngos-us-ai",
+      "name": "fundsforNGOs US: Artificial Intelligence",
+      "url": "https://us.fundsforngos.org/tag/artificial-intelligence/feed/",
+      "kind": "grants"
+    },
+    {
+      "id": "fundsforngos-us",
+      "name": "fundsforNGOs US",
+      "url": "https://us.fundsforngos.org/feed/",
+      "kind": "grants"
+    },
+    {
+      "id": "fundsforngos",
+      "name": "fundsforNGOs",
+      "url": "https://www.fundsforngos.org/feed/",
+      "kind": "grants"
+    },
+    {
+      "id": "ictworks",
+      "name": "ICTworks",
+      "url": "https://www.ictworks.org/feed/",
+      "kind": "news"
+    },
+    {
+      "id": "impact-catalyst",
+      "name": "Impact Catalyst grants (Substack)",
+      "url": "https://impactcatalyst.substack.com/feed",
+      "kind": "news"
+    }
+  ],
+  "relevance_any": [
+    "artificial intelligence",
+    " ai ",
+    "ai-",
+    "machine learning",
+    "humanitarian",
+    "nonprofit technology",
+    "digital literacy",
+    "ethical ai",
+    "responsible ai",
+    "ai for good",
+    "generative ai",
+    "ai capacity"
+  ],
+  "grant_words": [
+    "grant",
+    "fund",
+    "fellowship",
+    "call for",
+    "rfp",
+    "award",
+    "prize",
+    "credits",
+    "applications open",
+    "open call"
+  ]
+}
