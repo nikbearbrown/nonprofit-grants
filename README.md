@@ -130,6 +130,7 @@ that fit its work (13 today) are in [data/hai-relevant.json](data/hai-relevant.j
 - [International](lists/international.md) (51): calls from outside the US; deadlines not parsed
 - [Leads from news sources](lists/leads.md) (4): articles about funding, not applications
 - [Closed](lists/closed.md) (18): past deadlines, useful for planning next cycle
+- [Funder locations](data/funder-locations.json): a pilot of addresses and coordinates for funders, all unreviewed
 - Raw data: [data/opportunities.json](data/opportunities.json), [data/opportunities.csv](data/opportunities.csv)
 
 ## Where the rows come from
