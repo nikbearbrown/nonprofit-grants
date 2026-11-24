@@ -122,11 +122,13 @@ def curated_rows():
 def merge(store, fresh):
     now = today().isoformat()
     for rec in fresh:
+        rec["summary"] = ""  # keep other sites' descriptive text out of the public data; relevance was computed from it already
         old = store.get(rec["id"])
         rec["first_seen"] = old["first_seen"] if old else now
         rec["last_seen"] = now
         store[rec["id"]] = rec
     for rec in store.values():  # a deadline can pass between runs
+        rec["summary"] = ""
         rec["status"] = status_for(rec["deadline"], None if rec["deadline"] else rec["status"])
     return store
 
@@ -246,6 +248,11 @@ Public feeds from fundsforNGOs (US), ICTworks and Impact Catalyst, plus a hand-c
 The collector is [nonprofit_grants.py](nonprofit_grants.py); sources are in [sources.json](sources.json).
 To suggest a grant or correct a row, [open an issue](https://github.com/nikbearbrown/nonprofit-grants/issues/new)
 (see [CONTRIBUTING.md](CONTRIBUTING.md)).
+
+## License
+
+Code: [MIT](LICENSE). Lists and data: [CC BY 4.0](LICENSE-DATA.md), so you may reuse them with credit.
+The sources named above keep their own rights in their own text.
 """)
 
     write("lists/rolling.md", f"# Rolling or no deadline stated\n\n{NOTE}\n\n{table(rolling, ['name', 'funder', 'amount', 'state', 'check'])}\n")

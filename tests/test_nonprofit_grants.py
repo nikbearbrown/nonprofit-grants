@@ -38,6 +38,10 @@ class T(unittest.TestCase):
         self.assertFalse(ng.hai_relevant(rec(status="open", state="Delaware")))
         self.assertTrue(ng.hai_relevant(rec(status="open", state="Massachusetts")))
 
+    def test_summaries_are_not_stored(self):
+        store = ng.merge({}, [rec(summary="copied text from another site")])
+        self.assertEqual(store["a"]["summary"], "")
+
     def test_table_escapes_pipes_and_brackets(self):
         out = ng.table([rec(name="A | B [x]", funder="F|G")], ["name", "funder"])
         self.assertIn("A / B (x)", out)

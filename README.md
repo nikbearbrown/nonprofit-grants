@@ -139,3 +139,8 @@ Public feeds from fundsforNGOs (US), ICTworks and Impact Catalyst, plus a hand-c
 The collector is [nonprofit_grants.py](nonprofit_grants.py); sources are in [sources.json](sources.json).
 To suggest a grant or correct a row, [open an issue](https://github.com/nikbearbrown/nonprofit-grants/issues/new)
 (see [CONTRIBUTING.md](CONTRIBUTING.md)).
+
+## License
+
+Code: [MIT](LICENSE). Lists and data: [CC BY 4.0](LICENSE-DATA.md), so you may reuse them with credit.
+The sources named above keep their own rights in their own text.
