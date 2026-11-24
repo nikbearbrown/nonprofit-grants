@@ -1,0 +1,35 @@
+name: Daily update
+
+on:
+  schedule:
+    - cron: "30 13 * * *"   # 13:30 UTC every day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run tests
+        run: python3 -I -m unittest discover -s tests
+      - name: Fetch feeds and rewrite the lists
+        run: python3 nonprofit_grants.py run
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Daily update $(date -u +%F)"
+            git push
+          fi
