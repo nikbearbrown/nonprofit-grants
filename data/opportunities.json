@@ -7045,6 +7045,25 @@
   "url_verified": false,
   "verified": false
  },
+ "c224154cf01ffb67": {
+  "amount_text": "",
+  "deadline": null,
+  "eligibility": "",
+  "first_seen": "2026-11-24",
+  "funder": "",
+  "id": "c224154cf01ffb67",
+  "last_seen": "2026-11-24",
+  "name": "Global funding opportunities - Social justice, food systems, and community grants",
+  "relevant": false,
+  "source": "impact-catalyst",
+  "state": "",
+  "status": "unknown",
+  "summary": "Grants for women in agrifood leadership, food system innovation, early-career food security research, public interest impact litigation, youth-led feminist initiatives and more...",
+  "tags": [],
+  "url": "https://impactcatalyst.substack.com/p/global-funding-opportunities-social",
+  "url_verified": false,
+  "verified": false
+ },
  "c225e6fd722242ae": {
   "amount_text": "",
   "deadline": null,
@@ -7991,7 +8010,7 @@
   "verified": false
  },
  "dfd8b50c77575ff2": {
-  "amount_text": "Up to $2,000/yr Cloud credits (Ad Grants already held)",
+  "amount_text": "Up to $2,000/yr Cloud credits",
   "deadline": null,
   "eligibility": "Verified nonprofits",
   "first_seen": "2026-11-04",

@@ -22,7 +22,7 @@ Listings are leads, not endorsements or awards. Rows marked "not yet" come from 
 | [Chickasaw County Community Foundation Grants in Iowa](https://us.fundsforngos.org/type-of-grantgrant/chickasaw-county-community-foundation-grants-in-iowa/) | Chickasaw County Community Foundation |  | Iowa | not yet |
 | [Clay County Community Foundation Grant Program – Iowa](https://us.fundsforngos.org/type-of-grantgrant/clay-county-community-foundation-grant-program-iowa/) |  |  | - | not yet |
 | [Funds For Greater Green Bay Grants in Wisconsin](https://us.fundsforngos.org/type-of-grantgrant/funds-for-greater-green-bay-grants-in-wisconsin/) | Greater Green Bay Community Foundation |  | Wisconsin | not yet |
-| [Google for Nonprofits (Cloud and AI credits)](https://grantedai.com/grants/google-for-nonprofits-cloud-ai-credits-google-org-google-cloud-b824e26f) | Google.org | Up to $2,000/yr Cloud credits (Ad Grants already held) | - | not yet |
+| [Google for Nonprofits (Cloud and AI credits)](https://grantedai.com/grants/google-for-nonprofits-cloud-ai-credits-google-org-google-cloud-b824e26f) | Google.org | Up to $2,000/yr Cloud credits | - | not yet |
 | [Grundy County Community Foundation Grant Program 2027 (Iowa)](https://us.fundsforngos.org/type-of-grantgrant/grundy-county-community-foundation-grant-program-2027-iowa/) |  |  | - | not yet |
 | [Microsoft AI for Humanitarian Action](https://research.ubc.ca/microsoft-ai-humantiarian-action) | Microsoft | Not stated | - | not yet |
 | [Microsoft for Nonprofits (Azure credits)](https://nonprofit.microsoft.com/en-us/getting-started) | Microsoft | Up to $2,000/yr Azure credits, M365 licences | - | not yet |
