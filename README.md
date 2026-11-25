@@ -1,13 +1,13 @@
 # Nonprofit grants
 
 An open list of small grants, technology credits and fellowships that a nonprofit could apply for. It is
-not limited to one organization: most rows will not fit you, and some will fit well. Updated 2026-11-24.
+not limited to one organization: most rows will not fit you, and some will fit well. Updated 2026-11-25.
 
 Listings are leads, not endorsements or awards. Rows marked "not yet" come from aggregator sites: read the funder's own page before applying. Dates are sponsor deadlines as listed by the source. This list does not
 apply for anything on anyone's behalf.
 
-**105** open with a deadline · **35** rolling or no deadline stated · **51** international ·
-**4** leads from news sources · **18** closed (kept for next year's cycle).
+**104** open with a deadline · **35** rolling or no deadline stated · **51** international ·
+**4** leads from news sources · **19** closed (kept for next year's cycle).
 
 Humanitarians AI keeps its own shortlist in [hai-grants](https://github.com/nikbearbrown/hai-grants); the rows
 that fit its work (13 today) are in [data/hai-relevant.json](data/hai-relevant.json).
@@ -16,7 +16,6 @@ that fit its work (13 today) are in [data/hai-relevant.json](data/hai-relevant.j
 
 | Deadline | Opportunity | Funder | Amount | Where | Checked |
 |---|---|---|---|---|---|
-| 2026-11-24 | [Applications Open for Scale For ClimateTech Innovators Cohort 7 Grant Program – New York](https://us.fundsforngos.org/type-of-grantprogram/applications-open-for-scale-for-climatetech-innovators-cohort-7-grant-program-new-york/) | ClimateTech | Not Available | New York | not yet |
 | 2026-11-27 | [New Jersey: Growing Apprenticeship in Nontraditional Sectors Program 2027](https://us.fundsforngos.org/type-of-grantgrant/new-jersey-growing-apprenticeship-in-nontraditional-sectors-program-2027/) | New Jersey Department of Labor & Workforce Development | More than $1 million | New Jersey | not yet |
 | 2026-11-29 | [Agriculture in the Classroom Teacher Supplement Grants – Iowa](https://us.fundsforngos.org/type-of-grantgrant/agriculture-in-the-classroom-teacher-supplement-grants-iowa/) | Iowa Agriculture Literacy Foundation | […] The post Agriculture in the Classroom Teacher Supplement Grants – Iowa first appeared on fundsforNGOs - United States . | Iowa | not yet |
 | 2026-11-30 | [Applications Open for Legacy of Love Scholarship 2026 (Georgia)](https://us.fundsforngos.org/type-of-grantscholarship/applications-open-for-legacy-of-love-scholarship-2026-georgia/) | Life Interrupted Foundation | Less than $1000 | Georgia | not yet |
@@ -129,8 +128,8 @@ that fit its work (13 today) are in [data/hai-relevant.json](data/hai-relevant.j
 - [By state](lists/by-state.md): where the funder or program is based, for state and local programs
 - [International](lists/international.md) (51): calls from outside the US; deadlines not parsed
 - [Leads from news sources](lists/leads.md) (4): articles about funding, not applications
-- [Closed](lists/closed.md) (18): past deadlines, useful for planning next cycle
-- [Funder locations](data/funder-locations.json): a pilot of addresses and coordinates for funders, all unreviewed
+- [Closed](lists/closed.md) (19): past deadlines, useful for planning next cycle
+- [Funder locations](data/funder-locations.json): addresses and coordinates for named funders, collected by AI agents and all unreviewed
 - Raw data: [data/opportunities.json](data/opportunities.json), [data/opportunities.csv](data/opportunities.csv)
 
 ## Where the rows come from

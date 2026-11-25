@@ -4,6 +4,7 @@ Past deadlines. Many programs repeat every year.
 
 | Deadline | Opportunity | Funder | Amount | Where |
 |---|---|---|---|---|
+| Closed 2026-11-24 | [Applications Open for Scale For ClimateTech Innovators Cohort 7 Grant Program – New York](https://us.fundsforngos.org/type-of-grantprogram/applications-open-for-scale-for-climatetech-innovators-cohort-7-grant-program-new-york/) | ClimateTech | Not Available | New York |
 | Closed 2026-11-23 | [2027 Arts Education Grant Program – New York](https://us.fundsforngos.org/type-of-grantgrant/2027-arts-education-grant-program-new-york/) | Lower Adirondack Regional Arts Council | Not Available | New York |
 | Closed 2026-11-20 | [Mozilla Foundation Human-Scale AI Incubator](https://www.impactopen.org/opportunities/mozilla-human-scale-ai-incubator) | Mozilla Foundation | Up to $500K over three years | - |
 | Closed 2026-11-20 | [Applications Open for Recreational Trails Program (Vermont)](https://us.fundsforngos.org/type-of-grantgrant/applications-open-for-recreational-trails-program-vermont/) | Vermont Department of Forests, Parks and Recreation | $10,000 to $100,000 | Vermont |

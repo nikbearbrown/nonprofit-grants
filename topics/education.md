@@ -4,7 +4,6 @@ Listings are leads, not endorsements or awards. Rows marked "not yet" come from 
 
 | Deadline | Opportunity | Funder | Amount | Where |
 |---|---|---|---|---|
-| 2026-11-24 | [Applications Open for Scale For ClimateTech Innovators Cohort 7 Grant Program – New York](https://us.fundsforngos.org/type-of-grantprogram/applications-open-for-scale-for-climatetech-innovators-cohort-7-grant-program-new-york/) | ClimateTech | Not Available | New York |
 | 2026-11-29 | [Agriculture in the Classroom Teacher Supplement Grants – Iowa](https://us.fundsforngos.org/type-of-grantgrant/agriculture-in-the-classroom-teacher-supplement-grants-iowa/) | Iowa Agriculture Literacy Foundation | […] The post Agriculture in the Classroom Teacher Supplement Grants – Iowa first appeared on fundsforNGOs - United States . | Iowa |
 | 2026-11-30 | [Apply now for KWPB&S Green Schools Grant Program (Florida)](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-kwpbs-green-schools-grant-program-florida/) | City of Winter Park | $1000 to $10,000 | Florida |
 | 2026-11-30 | [The Mohegan Challenge Grant Program 2026 (Connecticut)](https://us.fundsforngos.org/type-of-grantgrant/the-mohegan-challenge-grant-program-2026-connecticut/) | Mohegan Tribes | Not Available | Connecticut |

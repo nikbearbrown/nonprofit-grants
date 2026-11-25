@@ -4,7 +4,6 @@ Listings are leads, not endorsements or awards. Rows marked "not yet" come from 
 
 | Deadline | Opportunity | Funder | Amount | Where |
 |---|---|---|---|---|
-| 2026-11-24 | [Applications Open for Scale For ClimateTech Innovators Cohort 7 Grant Program – New York](https://us.fundsforngos.org/type-of-grantprogram/applications-open-for-scale-for-climatetech-innovators-cohort-7-grant-program-new-york/) | ClimateTech | Not Available | New York |
 | 2026-12-04 | [Applications Open for Bothin Foundation Grant Program (California)](https://us.fundsforngos.org/type-of-grantgrant/applications-open-for-bothin-foundation-grant-program-california/) | Bothin Foundation | $10,000 to $100,000 | California |
 | 2026-12-11 | [Southeast New England Program Innovative Restoration Grants 2026](https://us.fundsforngos.org/type-of-grantgrant/southeast-new-england-program-innovative-restoration-grants-2026/) | Environmental Protection Agency (EPA) | More than $1 million | Maine, Massachusetts, New Hampshire, Rhode Island, Vermont |
 | 2027-02-26 | [Equity Workforce Training Implementation Grants 2027 (Massachusetts)](https://us.fundsforngos.org/type-of-grantgrant/equity-workforce-training-implementation-grants-2027-massachusetts/) | Massachusetts Clean Energy Technology Center (MassCEC) | $500,000 to $1 million | Massachusetts |

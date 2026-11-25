@@ -195,7 +195,6 @@ Open programs tied to one state. Programs open in every state are in the [main l
 
 | Deadline | Opportunity | Funder | Amount |
 |---|---|---|---|
-| 2026-11-24 | [Applications Open for Scale For ClimateTech Innovators Cohort 7 Grant Program – New York](https://us.fundsforngos.org/type-of-grantprogram/applications-open-for-scale-for-climatetech-innovators-cohort-7-grant-program-new-york/) | ClimateTech | Not Available |
 | 2026-12-04 | [Request for Proposals for Strategic Priorities Grants Program (New York)](https://us.fundsforngos.org/type-of-grantgrant/request-for-proposals-for-strategic-priorities-grants-program-new-york/) | United Way of Broome County | $10,000 to $100,000 |
 | 2026-12-08 | [Submit Applications for Arts Alive Grant Program (New York)](https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-arts-alive-grant-program-new-york/) | ArtsWestchester | $1000 to $10,000 |
 | 2026-12-17 | [Applications Open for William F. Thiel Grants -New York](https://us.fundsforngos.org/type-of-grantgrant/applications-open-for-william-f-thiel-grants-new-york/) | Community Foundation for Greater Buffalo | Not Available |

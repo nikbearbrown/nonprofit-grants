@@ -239,7 +239,7 @@ that fit its work ({len(hai)} today) are in [data/hai-relevant.json](data/hai-re
 - [International](lists/international.md) ({len(intl)}): calls from outside the US; deadlines not parsed
 - [Leads from news sources](lists/leads.md) ({len(leads)}): articles about funding, not applications
 - [Closed](lists/closed.md) ({len(closed)}): past deadlines, useful for planning next cycle
-- [Funder locations](data/funder-locations.json): a pilot of addresses and coordinates for funders, all unreviewed
+- [Funder locations](data/funder-locations.json): addresses and coordinates for named funders, collected by AI agents and all unreviewed
 - Raw data: [data/opportunities.json](data/opportunities.json), [data/opportunities.csv](data/opportunities.csv)
 
 ## Where the rows come from
