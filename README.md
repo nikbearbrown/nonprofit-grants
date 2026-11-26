@@ -1,7 +1,7 @@
 # Nonprofit grants
 
 An open list of small grants, technology credits and fellowships that a nonprofit could apply for. It is
-not limited to one organization: most rows will not fit you, and some will fit well. Updated 2026-11-25.
+not limited to one organization: most rows will not fit you, and some will fit well. Updated 2026-11-26.
 
 Listings are leads, not endorsements or awards. Rows marked "not yet" come from aggregator sites: read the funder's own page before applying. Dates are sponsor deadlines as listed by the source. This list does not
 apply for anything on anyone's behalf.
