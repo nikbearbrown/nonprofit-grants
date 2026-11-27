@@ -6,6 +6,7 @@ Listings are leads, not endorsements or awards. Rows marked "not yet" come from 
 
 | Opportunity | Funder | Amount |
 |---|---|---|
+| [5 Education Funds to Research for Children Returning to School After Displacement](https://www.fundsforngos.org/how-to-apply/5-education-funds-to-research-for-children-returning-to-school-after-displacement/) |  |  |
 | [Advancing Patient-Centered Comparative Effectiveness Research (US)](https://www.fundsforngos.org/how-to-apply/advancing-patient-centered-comparative-effectiveness-research-us/) |  |  |
 | [Applications open for Age-Friendly Communities Grant (Canada)](https://www.fundsforngos.org/how-to-apply/applications-open-for-age-friendly-communities-grant-canada/) |  |  |
 | [Applications Open for Eat Right India Photography Contest (India)](https://www.fundsforngos.org/how-to-apply/applications-open-for-eat-right-india-photography-contest-india/) |  |  |
@@ -57,3 +58,4 @@ Listings are leads, not endorsements or awards. Rows marked "not yet" come from 
 | [UK-Hong Kong Arts and Technology Partnership Development Fund](https://www.fundsforngos.org/how-to-apply/uk-hong-kong-arts-and-technology-partnership-development-fund/) |  |  |
 | [UK-Netherlands Co-Innovation for Quantum Technology 2026](https://www.fundsforngos.org/how-to-apply/uk-netherlands-co-innovation-for-quantum-technology-2026/) |  |  |
 | [VV AVaV 2026: Public Grants for Scientific Research and Technological Innovation (Slovakia)](https://www.fundsforngos.org/how-to-apply/vv-avav-2026-public-grants-for-scientific-research-and-technological-innovation-slovakia/) |  |  |
+| [What Should You Do When Two Donors Offer to Fund the Same Pilot?](https://www.fundsforngos.org/how-to-apply/what-should-you-do-when-two-donors-offer-to-fund-the-same-pilot/) |  |  |

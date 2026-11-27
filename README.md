@@ -1,12 +1,12 @@
 # Nonprofit grants
 
 An open list of small grants, technology credits and fellowships that a nonprofit could apply for. It is
-not limited to one organization: most rows will not fit you, and some will fit well. Updated 2026-11-26.
+not limited to one organization: most rows will not fit you, and some will fit well. Updated 2026-11-27.
 
 Listings are leads, not endorsements or awards. Rows marked "not yet" come from aggregator sites: read the funder's own page before applying. Dates are sponsor deadlines as listed by the source. This list does not
 apply for anything on anyone's behalf.
 
-**104** open with a deadline · **35** rolling or no deadline stated · **51** international ·
+**113** open with a deadline · **36** rolling or no deadline stated · **53** international ·
 **4** leads from news sources · **19** closed (kept for next year's cycle).
 
 Humanitarians AI keeps its own shortlist in [hai-grants](https://github.com/nikbearbrown/hai-grants); the rows
@@ -32,11 +32,15 @@ that fit its work (13 today) are in [data/hai-relevant.json](data/hai-relevant.j
 | 2026-12-01 | [Salem Community Foundation’s Grant Program (Ohio)](https://us.fundsforngos.org/type-of-grantgrant/salem-community-foundations-grant-program-ohio/) | Salem Community Foundation | Not Available | Ohio | not yet |
 | 2026-12-01 | [Variety KC Ten Parks Project Grant Program in Missouri](https://us.fundsforngos.org/type-of-grantgrant/variety-kc-ten-parks-project-grant-program-in-missouri/) | Greater Kansas City Community Foundation | Not Available | Missouri | not yet |
 | 2026-12-02 | [Request for Applications for United Way of Calhoun County Grant Program (Alabama)](https://us.fundsforngos.org/type-of-grantgrant/request-for-applications-for-united-way-of-calhoun-county-grant-program-alabama/) | United Way of Calhoun County | Not Available | Alabama | not yet |
+| 2026-12-03 | [Apply now for Small Things Big Impacts Fund (New York)](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-small-things-big-impacts-fund-new-york/) | Naturally Lewis | $1000 to $10,000 | New York | not yet |
 | 2026-12-03 | [Community Foundation of West Plains Affiliate Grantmaking Program 2027 – Missouri](https://us.fundsforngos.org/type-of-grantgrant/community-foundation-of-west-plains-affiliate-grantmaking-program-2027-missouri/) | Community Foundation of West Plains | $1000 to $10,000 | Missouri | not yet |
 | 2026-12-04 | [Applications Open for Bothin Foundation Grant Program (California)](https://us.fundsforngos.org/type-of-grantgrant/applications-open-for-bothin-foundation-grant-program-california/) | Bothin Foundation | $10,000 to $100,000 | California | not yet |
 | 2026-12-04 | [Applications Open for Emerging Producers Program (Tennessee)](https://us.fundsforngos.org/type-of-grantgrant/applications-open-for-emerging-producers-program-tennessee/) | River City Company | Not Available | Tennessee | not yet |
 | 2026-12-04 | [Apply now for Community Impact Partnership Grants (Louisiana)](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-community-impact-partnership-grants-louisiana/) | United Way of Southwest Louisiana | Not Available Grant […] The post Apply now for Community Impact Partnership Grants (Louisiana) first appeared on fundsforNGOs - United States . | Louisiana | not yet |
+| 2026-12-04 | [Grant-in-Aid Grant for Nonprofit Organizations 2026 (Delaware)](https://us.fundsforngos.org/type-of-grantgrant/grant-in-aid-grant-for-nonprofit-organizations-2026-delaware/) | Office of the Controller General | Not Available | Delaware | not yet |
+| 2026-12-04 | [Request for Proposal for Philadelphia Food Justice Initiative in Pennsylvania](https://us.fundsforngos.org/type-of-grantgrant/request-for-proposal-for-philadelphia-food-justice-initiative-in-pennsylvania/) | Reinvestment Fund | $10,000 to $100,000 Grant […] The post Request for Proposal for Philadelphia Food Justice Initiative in Pennsylvania first appeared on fundsforNGOs - United States . | Pennsylvania | not yet |
 | 2026-12-04 | [Request for Proposals for Strategic Priorities Grants Program (New York)](https://us.fundsforngos.org/type-of-grantgrant/request-for-proposals-for-strategic-priorities-grants-program-new-york/) | United Way of Broome County | $10,000 to $100,000 | New York | not yet |
+| 2026-12-04 | [Submit Applications for Community Development Block Grants – New Mexico](https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-community-development-block-grants-new-mexico/) | City of Albuquerque | More than $1 million | New Mexico | not yet |
 | 2026-12-06 | [2026-2027 Community Grants Program (Virginia)](https://us.fundsforngos.org/type-of-grantgrant/2026-2027-community-grants-program-virginia/) | Junior League of Northern Virginia | $1000 to $10,000 | Virginia | not yet |
 | 2026-12-08 | [Postconviction Testing of DNA Evidence Grants 2026](https://us.fundsforngos.org/type-of-grantgrant/postconviction-testing-of-dna-evidence-grants-2026/) | Bureau of Justice Assistance (BJA) | More than $1 million | All States | not yet |
 | 2026-12-08 | [Submit Applications for Arts Alive Grant Program (New York)](https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-arts-alive-grant-program-new-york/) | ArtsWestchester | $1000 to $10,000 | New York | not yet |
@@ -77,6 +81,7 @@ that fit its work (13 today) are in [data/hai-relevant.json](data/hai-relevant.j
 | 2027-01-08 | [Apply now for Arts Education Project Support Grant (Tennessee)](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-arts-education-project-support-grant-tennessee/) | Tennessee Arts Commission | $10,000 to $100,000 Grant […] The post Apply now for Arts Education Project Support Grant (Tennessee) first appeared on fundsforNGOs - United States . | Tennessee | not yet |
 | 2027-01-08 | [Apply now for Creative Placemaking Grant Program (Tennessee)](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-creative-placemaking-grant-program-tennessee/) | Tennessee Arts Commission | $10,000 to $100,000 | Tennessee | not yet |
 | 2027-01-08 | [Arts for All Grants to Expand Arts Participation – Tennessee](https://us.fundsforngos.org/type-of-grantgrant/arts-for-all-grants-to-expand-arts-participation-tennessee/) | Tennessee Arts Commission | Not Available | Tennessee | not yet |
+| 2027-01-08 | [Healthy Soils Competitive Fund 2027 – Maryland](https://us.fundsforngos.org/type-of-grantgrant/healthy-soils-competitive-fund-2027-maryland/) | Maryland Department of Agriculture (MDA) | $10,000 to $100,000 | Maryland | not yet |
 | 2027-01-08 | [Minnesota: Community-Based Suicide Prevention Coalition Grant Program 2027](https://us.fundsforngos.org/type-of-grantgrant/minnesota-community-based-suicide-prevention-coalition-grant-program-2027/) | Minnesota Department of Health (MDH) | $100,000 to $500,000 | Minnesota | not yet |
 | 2027-01-08 | [Request for Applications for Arts Project Support Grants (Tennessee)](https://us.fundsforngos.org/type-of-grantgrant/request-for-applications-for-arts-project-support-grants-tennessee/) | Tennessee Arts Commission | $10,000 to $100,000 | Tennessee | not yet |
 | 2027-01-08 | [Submit Applications for Small Grants Program (Colorado)](https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-small-grants-program-colorado/) | Boulder County Parks & Open Space | $10,000 to $100,000 | Colorado | not yet |
@@ -89,12 +94,14 @@ that fit its work (13 today) are in [data/hai-relevant.json](data/hai-relevant.j
 | 2027-01-15 | [Apply now for Community Grant Program (Wisconsin)](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-community-grant-program-wisconsin/) | Eau Claire Community Foundation (ECCF) | $10,000 to $100,000 | Wisconsin | not yet |
 | 2027-01-15 | [Apply now for Sacramento Film + Media Grant Program (California)](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-sacramento-film-media-grant-program-california/) | Sacramento Film + Media | $1000 to $10,000 | California | not yet |
 | 2027-01-15 | [Apply now for Underprivileged Children Fund (Kansas)](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-underprivileged-children-fund-kansas/) | Nemaha County STEP Foundation | Not Available | Kansas | not yet |
+| 2027-01-15 | [Call for Applications for Community Impact Grants – Connecticut](https://us.fundsforngos.org/type-of-grantgrant/call-for-applications-for-community-impact-grants-connecticut/) | Community Foundation of Eastern Connecticut | Not Available | Connecticut | not yet |
 | 2027-01-15 | [Call for Applications for Individual Artist Fellowship (Tennessee)](https://us.fundsforngos.org/type-of-grantfellowship/call-for-applications-for-individual-artist-fellowship-tennessee/) | Tennessee Arts Commission | $1000 to $10,000 | Tennessee | not yet |
 | 2027-01-15 | [Impact100 Garden State Grant Program 2027 – New Jersey](https://us.fundsforngos.org/type-of-grantgrant/impact100-garden-state-grant-program-2027-new-jersey/) | Impact100 Garden State | $10,000 to $100,000 | New Jersey | not yet |
 | 2027-01-15 | [Nemaha County STEP Foundation Grants (Kansas)](https://us.fundsforngos.org/type-of-grantgrant/nemaha-county-step-foundation-grants-kansas/) | Nemaha County STEP Foundation | Not Available | Kansas | not yet |
 | 2027-01-15 | [SLCF Community Grants 2027 – Montana](https://us.fundsforngos.org/type-of-grantgrant/slcf-community-grants-2027-montana/) | Seeley Lake Community Foundation | $1000 to $10,000 | Montana | not yet |
 | 2027-01-15 | [Submit Applications for Community Development Block Grant Program (Pennsylvania)](https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-community-development-block-grant-program-pennsylvania/) | York County Planning Commission | Not Available | Pennsylvania | not yet |
 | 2027-01-18 | [Felix Martin Jr. Foundation Community Grants Program 2027 (Kentucky)](https://us.fundsforngos.org/type-of-grantgrant/felix-martin-jr-foundation-community-grants-program-2027-kentucky/) | Felix Martin Jr. Foundation | Not Available | Kentucky | not yet |
+| 2027-01-21 | [Apply now for William Penn Foundation Fund – Pennsylvania](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-william-penn-foundation-fund-pennsylvania/) | William Penn Foundation | Not Available | Pennsylvania | not yet |
 | 2027-01-22 | [Pebble Beach Company Foundation Grants – California](https://us.fundsforngos.org/type-of-grantgrant/pebble-beach-company-foundation-grants-california/) | Pebble Beach Company Foundation | Not Available | California | not yet |
 | 2027-01-24 | [Cultural Arts Operating Support Grant Program in Washington](https://us.fundsforngos.org/type-of-grantgrant/cultural-arts-operating-support-grant-program-in-washington/) | City of Redmond | $1000 to $10,000 | Washington | not yet |
 | 2027-01-24 | [Submit Applications for Youth Philanthropy Project Grant (Washington)](https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-youth-philanthropy-project-grant-washington/) | Whatcom Community Foundation | $1000 to $10,000 | Washington | not yet |
@@ -111,10 +118,12 @@ that fit its work (13 today) are in [data/hai-relevant.json](data/hai-relevant.j
 | 2027-02-11 | [Community Waste Reduction and Recycling Grants 2026 – North Carolina](https://us.fundsforngos.org/type-of-grantgrant/community-waste-reduction-and-recycling-grants-2026-north-carolina/) | North Carolina Department of Environmental Quality (DEQ) | $10,000 to $100,000 | North Carolina | not yet |
 | 2027-02-11 | [SWIFR Subawards for Local Governments Grants – North Carolina](https://us.fundsforngos.org/type-of-grantgrant/swifr-subawards-for-local-governments-grants-north-carolina/) | North Carolina Department of Environmental Quality (DEQ) | $10,000 to $100,000 | North Carolina | not yet |
 | 2027-02-12 | [L’Oréal USA for Women in Science Program](https://us.fundsforngos.org/type-of-grantgrant/loreal-usa-for-women-in-science-program/) | American Association for the Advancement of Science (AAAS) | $10,000 to $100,000 […] The post L’Oréal USA for Women in Science Program first appeared on fundsforNGOs - United States . | All States | not yet |
+| 2027-02-14 | [Apply now for Michigan Baseball Foundation Grant Program](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-michigan-baseball-foundation-grant-program/) | Michigan Baseball Foundation (MBF) | Not Available Grant […] The post Apply now for Michigan Baseball Foundation Grant Program first appeared on fundsforNGOs - United States . | Michigan | not yet |
 | 2027-02-15 | [Call for Applications for Rural Grant Program (Alabama)](https://us.fundsforngos.org/type-of-grantgrant/call-for-applications-for-rural-grant-program-alabama/) | The Daniel Foundation of Alabama | Not Available | Alabama | not yet |
 | 2027-02-19 | [Applications Open for Responsive Grants- Ohio](https://us.fundsforngos.org/type-of-grantgrant/applications-open-for-responsive-grants-ohio/) | Community Health Foundation | $1000 to $10,000 | Ohio | not yet |
 | 2027-02-26 | [EDA Build to Scale (FY2027)](https://www.eda.gov/funding/programs/build-to-scale) | U.S. Economic Development Administration | Emerging Path up to $1M over 36 months, Growth Path up to $7M over 48 months; about $145M, 30-40 awards; 1:1 match, cash or in-kind | - | funder page read |
 | 2027-02-26 | [Equity Workforce Training Implementation Grants 2027 (Massachusetts)](https://us.fundsforngos.org/type-of-grantgrant/equity-workforce-training-implementation-grants-2027-massachusetts/) | Massachusetts Clean Energy Technology Center (MassCEC) | $500,000 to $1 million | Massachusetts | not yet |
+| 2027-02-28 | [Ian Helms Award for Social Entrepreneurship 2027](https://us.fundsforngos.org/type-of-grantawards-and-prizes/ian-helms-award-for-social-entrepreneurship-2027/) | The Dakota Foundation | $10,000 to $100,000 | Colorado, New Mexico, North Dakota | not yet |
 | 2027-03-10 | [Submit Applications for Flash Grants (North Carolina)](https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-flash-grants-north-carolina/) | North Carolina Biotechnology Center | $10,000 to $100,000 | North Carolina | not yet |
 | 2027-06-30 | [SBIR/STTR Match Program 2027 (Illinois)](https://us.fundsforngos.org/type-of-grantprogram/sbir-sttr-match-program-2027-illinois/) | Illinois Department of Commerce & Economic Opportunity | $10,000 to $100,000 | Illinois | not yet |
 | 2027-09-07 | [Apply now for Moonshot Microgrants & Approved Programs (Indiana)](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-moonshot-microgrants-approved-programs-indiana/) | Hendricks County Community Foundation | $1000 to $10,000 | Indiana | not yet |
@@ -123,10 +132,10 @@ that fit its work (13 today) are in [data/hai-relevant.json](data/hai-relevant.j
 
 ## Browse another way
 
-- [Rolling or no deadline stated](lists/rolling.md) (35): credits, programs and calls with no posted date
+- [Rolling or no deadline stated](lists/rolling.md) (36): credits, programs and calls with no posted date
 - [By topic](topics/README.md): education, health, arts, technology and more
 - [By state](lists/by-state.md): where the funder or program is based, for state and local programs
-- [International](lists/international.md) (51): calls from outside the US; deadlines not parsed
+- [International](lists/international.md) (53): calls from outside the US; deadlines not parsed
 - [Leads from news sources](lists/leads.md) (4): articles about funding, not applications
 - [Closed](lists/closed.md) (19): past deadlines, useful for planning next cycle
 - [Funder locations](data/funder-locations.json): addresses and coordinates for named funders, collected by AI agents and all unreviewed

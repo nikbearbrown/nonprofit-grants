@@ -40,17 +40,30 @@ Open programs tied to one state. Programs open in every state are in the [main l
 |---|---|---|---|
 | 2027-01-08 | [Submit Applications for Small Grants Program (Colorado)](https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-small-grants-program-colorado/) | Boulder County Parks & Open Space | $10,000 to $100,000 |
 
+## Colorado, New Mexico, North Dakota
+
+| Deadline | Opportunity | Funder | Amount |
+|---|---|---|---|
+| 2027-02-28 | [Ian Helms Award for Social Entrepreneurship 2027](https://us.fundsforngos.org/type-of-grantawards-and-prizes/ian-helms-award-for-social-entrepreneurship-2027/) | The Dakota Foundation | $10,000 to $100,000 |
+
 ## Connecticut
 
 | Deadline | Opportunity | Funder | Amount |
 |---|---|---|---|
 | 2026-11-30 | [The Mohegan Challenge Grant Program 2026 (Connecticut)](https://us.fundsforngos.org/type-of-grantgrant/the-mohegan-challenge-grant-program-2026-connecticut/) | Mohegan Tribes | Not Available |
+| 2027-01-15 | [Call for Applications for Community Impact Grants – Connecticut](https://us.fundsforngos.org/type-of-grantgrant/call-for-applications-for-community-impact-grants-connecticut/) | Community Foundation of Eastern Connecticut | Not Available |
 
 ## Connecticut, New Jersey, New York
 
 | Deadline | Opportunity | Funder | Amount |
 |---|---|---|---|
 | 2026-12-31 | [Apply now for Stardust Fertility Foundation Grant Program](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-stardust-fertility-foundation-grant-program/) | Stardust Fertility Foundation | $10,000 to $100,000 |
+
+## Delaware
+
+| Deadline | Opportunity | Funder | Amount |
+|---|---|---|---|
+| 2026-12-04 | [Grant-in-Aid Grant for Nonprofit Organizations 2026 (Delaware)](https://us.fundsforngos.org/type-of-grantgrant/grant-in-aid-grant-for-nonprofit-organizations-2026-delaware/) | Office of the Controller General | Not Available |
 
 ## Florida
 
@@ -134,6 +147,7 @@ Open programs tied to one state. Programs open in every state are in the [main l
 |---|---|---|---|
 | 2026-12-01 | [Maryland: Request for Applications for Promoting Health Equity and Expanding Health Care Access](https://us.fundsforngos.org/type-of-grantgrant/maryland-request-for-applications-for-promoting-health-equity-and-expanding-health-care-access/) | Community Health Resources Commission | $500,000 to $1 million |
 | 2026-12-15 | [Call for Applications for Baltimore Women’s Giving Circle in Maryland](https://us.fundsforngos.org/type-of-grantgrant/call-for-applications-for-baltimore-womens-giving-circle-in-maryland/) | Baltimore Community Foundation | $10,000 to $100,000 |
+| 2027-01-08 | [Healthy Soils Competitive Fund 2027 – Maryland](https://us.fundsforngos.org/type-of-grantgrant/healthy-soils-competitive-fund-2027-maryland/) | Maryland Department of Agriculture (MDA) | $10,000 to $100,000 |
 | Rolling or not stated | [Applications Open for Manufacturing 4.0 Grant Program (Maryland)](https://us.fundsforngos.org/type-of-grantgrant/applications-open-for-manufacturing-4-0-grant-program-maryland/) | Maryland Department of Commerce |  |
 
 ## Maryland, New York, Pennsylvania
@@ -162,6 +176,7 @@ Open programs tied to one state. Programs open in every state are in the [main l
 | Deadline | Opportunity | Funder | Amount |
 |---|---|---|---|
 | 2027-01-08 | [Submit Applications for Youth Fund – Michigan](https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-youth-fund-michigan/) | Grand Rapids Community Foundation | $1000 to […] The post Submit Applications for Youth Fund – Michigan first appeared on fundsforNGOs - United States . |
+| 2027-02-14 | [Apply now for Michigan Baseball Foundation Grant Program](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-michigan-baseball-foundation-grant-program/) | Michigan Baseball Foundation (MBF) | Not Available Grant […] The post Apply now for Michigan Baseball Foundation Grant Program first appeared on fundsforNGOs - United States . |
 
 ## Minnesota
 
@@ -191,10 +206,17 @@ Open programs tied to one state. Programs open in every state are in the [main l
 | 2026-11-27 | [New Jersey: Growing Apprenticeship in Nontraditional Sectors Program 2027](https://us.fundsforngos.org/type-of-grantgrant/new-jersey-growing-apprenticeship-in-nontraditional-sectors-program-2027/) | New Jersey Department of Labor & Workforce Development | More than $1 million |
 | 2027-01-15 | [Impact100 Garden State Grant Program 2027 – New Jersey](https://us.fundsforngos.org/type-of-grantgrant/impact100-garden-state-grant-program-2027-new-jersey/) | Impact100 Garden State | $10,000 to $100,000 |
 
+## New Mexico
+
+| Deadline | Opportunity | Funder | Amount |
+|---|---|---|---|
+| 2026-12-04 | [Submit Applications for Community Development Block Grants – New Mexico](https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-community-development-block-grants-new-mexico/) | City of Albuquerque | More than $1 million |
+
 ## New York
 
 | Deadline | Opportunity | Funder | Amount |
 |---|---|---|---|
+| 2026-12-03 | [Apply now for Small Things Big Impacts Fund (New York)](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-small-things-big-impacts-fund-new-york/) | Naturally Lewis | $1000 to $10,000 |
 | 2026-12-04 | [Request for Proposals for Strategic Priorities Grants Program (New York)](https://us.fundsforngos.org/type-of-grantgrant/request-for-proposals-for-strategic-priorities-grants-program-new-york/) | United Way of Broome County | $10,000 to $100,000 |
 | 2026-12-08 | [Submit Applications for Arts Alive Grant Program (New York)](https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-arts-alive-grant-program-new-york/) | ArtsWestchester | $1000 to $10,000 |
 | 2026-12-17 | [Applications Open for William F. Thiel Grants -New York](https://us.fundsforngos.org/type-of-grantgrant/applications-open-for-william-f-thiel-grants-new-york/) | Community Foundation for Greater Buffalo | Not Available |
@@ -239,7 +261,9 @@ Open programs tied to one state. Programs open in every state are in the [main l
 
 | Deadline | Opportunity | Funder | Amount |
 |---|---|---|---|
+| 2026-12-04 | [Request for Proposal for Philadelphia Food Justice Initiative in Pennsylvania](https://us.fundsforngos.org/type-of-grantgrant/request-for-proposal-for-philadelphia-food-justice-initiative-in-pennsylvania/) | Reinvestment Fund | $10,000 to $100,000 Grant […] The post Request for Proposal for Philadelphia Food Justice Initiative in Pennsylvania first appeared on fundsforNGOs - United States . |
 | 2027-01-15 | [Submit Applications for Community Development Block Grant Program (Pennsylvania)](https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-community-development-block-grant-program-pennsylvania/) | York County Planning Commission | Not Available |
+| 2027-01-21 | [Apply now for William Penn Foundation Fund – Pennsylvania](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-william-penn-foundation-fund-pennsylvania/) | William Penn Foundation | Not Available |
 | Rolling or not stated | [YCPC Emergency Solutions Grant Program (Pennsylvania)](https://us.fundsforngos.org/type-of-grantgrant/ycpc-emergency-solutions-grant-program-pennsylvania/) | York County Planning Commission |  |
 
 ## Rhode Island

@@ -4,6 +4,7 @@ Listings are leads, not endorsements or awards. Rows marked "not yet" come from 
 
 | Deadline | Opportunity | Funder | Amount | Where |
 |---|---|---|---|---|
+| 2026-12-04 | [Submit Applications for Community Development Block Grants – New Mexico](https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-community-development-block-grants-new-mexico/) | City of Albuquerque | More than $1 million | New Mexico |
 | 2026-12-31 | [North Carolina: Paper Cup Recycling Education Grants 2026](https://us.fundsforngos.org/type-of-grantgrant/north-carolina-paper-cup-recycling-education-grants-2026/) | North Carolina Department of Environmental Quality (DEQ) | $10,000 to $100,000 | North Carolina |
 | 2027-01-08 | [Minnesota: Community-Based Suicide Prevention Coalition Grant Program 2027](https://us.fundsforngos.org/type-of-grantgrant/minnesota-community-based-suicide-prevention-coalition-grant-program-2027/) | Minnesota Department of Health (MDH) | $100,000 to $500,000 | Minnesota |
 | 2027-02-11 | [Community Waste Reduction and Recycling Grants 2026 – North Carolina](https://us.fundsforngos.org/type-of-grantgrant/community-waste-reduction-and-recycling-grants-2026-north-carolina/) | North Carolina Department of Environmental Quality (DEQ) | $10,000 to $100,000 | North Carolina |

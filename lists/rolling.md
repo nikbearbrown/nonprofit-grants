@@ -10,6 +10,7 @@ Listings are leads, not endorsements or awards. Rows marked "not yet" come from 
 | [Applications Open for CORE Grant Program (Arizona)](https://us.fundsforngos.org/type-of-grantgrant/applications-open-for-core-grant-program-arizona/) |  |  | - | not yet |
 | [Applications open for Grocery Rescue Program (Illinois)](https://us.fundsforngos.org/type-of-grantgrant/applications-open-for-grocery-rescue-program-illinois/) |  |  | - | not yet |
 | [Applications Open for Manufacturing 4.0 Grant Program (Maryland)](https://us.fundsforngos.org/type-of-grantgrant/applications-open-for-manufacturing-4-0-grant-program-maryland/) | Maryland Department of Commerce |  | Maryland | not yet |
+| [Applications Open for Medi-Cal Capacity Grant Program (California)](https://us.fundsforngos.org/type-of-grantgrant/applications-open-for-medi-cal-capacity-grant-program-california/) |  |  | - | not yet |
 | [Applications Open for Responsible Gaming Grants Program (Colorado)](https://us.fundsforngos.org/type-of-grantgrant/applications-open-for-responsible-gaming-grants-program-colorado/) |  |  | - | not yet |
 | [Applications Open for Tourism Fund Grants (Massachusetts)](https://us.fundsforngos.org/type-of-grantgrant/applications-open-for-tourism-fund-grants-massachusetts/) | Town of Provincetown | Not Available | Massachusetts | not yet |
 | [Apply now for Arts Journalism Grants](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-arts-journalism-grants/) | South Arts |  | Selected States | not yet |

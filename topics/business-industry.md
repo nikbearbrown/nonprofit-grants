@@ -5,6 +5,7 @@ Listings are leads, not endorsements or awards. Rows marked "not yet" come from 
 | Deadline | Opportunity | Funder | Amount | Where |
 |---|---|---|---|---|
 | 2026-11-27 | [New Jersey: Growing Apprenticeship in Nontraditional Sectors Program 2027](https://us.fundsforngos.org/type-of-grantgrant/new-jersey-growing-apprenticeship-in-nontraditional-sectors-program-2027/) | New Jersey Department of Labor & Workforce Development | More than $1 million | New Jersey |
+| 2026-12-03 | [Apply now for Small Things Big Impacts Fund (New York)](https://us.fundsforngos.org/type-of-grantgrant/apply-now-for-small-things-big-impacts-fund-new-york/) | Naturally Lewis | $1000 to $10,000 | New York |
 | 2026-12-31 | [2027-2028 Community Impact Grant Program (South Dakota)](https://us.fundsforngos.org/type-of-grantgrant/2027-2028-community-impact-grant-program-south-dakota/) | United Way of the Black Hills | $10,000 to $100,000 | South Dakota |
 | 2027-06-30 | [SBIR/STTR Match Program 2027 (Illinois)](https://us.fundsforngos.org/type-of-grantprogram/sbir-sttr-match-program-2027-illinois/) | Illinois Department of Commerce & Economic Opportunity | $10,000 to $100,000 | Illinois |
 | Rolling or not stated | [Applications open for Arts Education Grants (New York)](https://us.fundsforngos.org/type-of-grantgrant/applications-open-for-arts-education-grants-new-york/) | Delaware Valley Arts Alliance |  | New York |
